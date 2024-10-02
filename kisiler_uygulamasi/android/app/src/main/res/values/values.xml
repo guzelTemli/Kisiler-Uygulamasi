@@ -1,0 +1,7 @@
+<resources>
+    <string name="google_app_id">1:804879764712:android:638cf88178f59b68e38d5d</string>
+    <string name="gcm_defaultSenderId">804879764712</string>
+    <string name="firebase_database_url">https://console.firebase.google.com/project/egitim-57ec7/firestore/databases/-default-/data</string>
+    <string name="google_api_key">AIzaSyBNIdHy9sSNFQNfon6pwln1ur9gw10Bcq4</string>
+    <string name="project_id">egitim-57ec7</string>
+</resources>
